@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "DPH DATAFLOW DIAGRAM",
+    "owner": "DPH",
+    "description": "Dataflow Diagram"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "DPH Dataflow Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
